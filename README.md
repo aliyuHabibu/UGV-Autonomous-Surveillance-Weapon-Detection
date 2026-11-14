@@ -1,4 +1,4 @@
-# Autonomous Unmanned Ground Vehicle (UGV) for Surveillance and Weapon Detection (AS-WD)
+# Unmanned Ground Vehicle (UGV) for Autonomous Surveillance and Weapon Detection (AS-WD)
 
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 [![Institution](https://img.shields.io/badge/Institution-Air%20Force%20Institute%20of%20Technology%20(AFIT)-blue.svg)]()
