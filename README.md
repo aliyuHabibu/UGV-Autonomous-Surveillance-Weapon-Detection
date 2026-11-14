@@ -49,5 +49,9 @@ Development-of-an-Unmanned-Ground-Vehicle-for-Autonomous-Surveillance-and-Weapon
 ├── hardware/                  # Circuit schematics and mechanical layouts
 │   └── cad_drawings/          # SolidWorks CAD models and wiring schematics
 │
+├── media/                     # Visual demonstrations & hardware photos
+│   ├── demo_video.mp4         # Field test and navigation demonstration
+│   └── inference_results.png  # YOLOv11 weapon detection screenshots
+│
 └── docs/                      # Thesis reports and technical documentation
     └── project_report.md      # Complete technical project report and test results
